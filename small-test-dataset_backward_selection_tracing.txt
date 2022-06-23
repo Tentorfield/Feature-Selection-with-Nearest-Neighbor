@@ -1,0 +1,670 @@
+The dataset has 10 features (not including the class attribute), with 100 instances
+Using feature(s) {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} accuracy is 68.0%
+Feature set {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} was best, accuracy is 68%
+
+On level 1 I added feature {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} to current set
+
+On level 1 I added feature {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 3, 4, 5, 6, 7, 8, 9, 10} accuracy is 71.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 3, 4, 5, 6, 7, 8, 9, 10} accuracy is 62.0%
+--Considering removing the 3 feature
+Using feature(s) {1, 2, 4, 5, 6, 7, 8, 9, 10} accuracy is 73.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 3, 5, 6, 7, 8, 9, 10} accuracy is 70.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 3, 4, 6, 7, 8, 9, 10} accuracy is 69.0%
+--Considering removing the 6 feature
+Using feature(s) {1, 2, 3, 4, 5, 7, 8, 9, 10} accuracy is 71.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 3, 4, 5, 6, 8, 9, 10} accuracy is 62.0%
+--Considering removing the 8 feature
+Using feature(s) {1, 2, 3, 4, 5, 6, 7, 9, 10} accuracy is 72.0%
+--Considering removing the 9 feature
+Using feature(s) {1, 2, 3, 4, 5, 6, 7, 8, 10} accuracy is 67.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 3, 4, 5, 6, 7, 8, 9} accuracy is 72.0%
+Feature set {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} was best, accuracy is 73.0%
+
+On level 2 I added feature {1, 2, 4, 5, 6, 7, 8, 9, 10} to current set
+
+On level 1 I added feature {1, 2, 4, 5, 6, 7, 8, 9, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 4, 5, 6, 7, 8, 9, 10} accuracy is 72.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 4, 5, 6, 7, 8, 9, 10} accuracy is 73.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 5, 6, 7, 8, 9, 10} accuracy is 69.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 4, 6, 7, 8, 9, 10} accuracy is 64.0%
+--Considering removing the 6 feature
+Using feature(s) {1, 2, 4, 5, 7, 8, 9, 10} accuracy is 75.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 4, 5, 6, 8, 9, 10} accuracy is 68.0%
+--Considering removing the 8 feature
+Using feature(s) {1, 2, 4, 5, 6, 7, 9, 10} accuracy is 68.0%
+--Considering removing the 9 feature
+Using feature(s) {1, 2, 4, 5, 6, 7, 8, 10} accuracy is 73.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 4, 5, 6, 7, 8, 9} accuracy is 67.0%
+Feature set {1, 2, 4, 5, 6, 7, 8, 9, 10} was best, accuracy is 75.0%
+
+On level 3 I added feature {1, 2, 4, 5, 7, 8, 9, 10} to current set
+
+On level 1 I added feature {1, 2, 4, 5, 7, 8, 9, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 4, 5, 7, 8, 9, 10} accuracy is 75.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 4, 5, 7, 8, 9, 10} accuracy is 73.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 5, 7, 8, 9, 10} accuracy is 64.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 4, 7, 8, 9, 10} accuracy is 58.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 4, 5, 8, 9, 10} accuracy is 71.0%
+--Considering removing the 8 feature
+Using feature(s) {1, 2, 4, 5, 7, 9, 10} accuracy is 78.0%
+--Considering removing the 9 feature
+Using feature(s) {1, 2, 4, 5, 7, 8, 10} accuracy is 77.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 4, 5, 7, 8, 9} accuracy is 71.0%
+Feature set {1, 2, 4, 5, 7, 8, 9, 10} was best, accuracy is 78.0%
+
+On level 4 I added feature {1, 2, 4, 5, 7, 9, 10} to current set
+
+On level 1 I added feature {1, 2, 4, 5, 7, 9, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 4, 5, 7, 9, 10} accuracy is 76.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 4, 5, 7, 9, 10} accuracy is 73.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 5, 7, 9, 10} accuracy is 67.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 4, 7, 9, 10} accuracy is 61.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 4, 5, 9, 10} accuracy is 75.0%
+--Considering removing the 9 feature
+Using feature(s) {1, 2, 4, 5, 7, 10} accuracy is 79.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 4, 5, 7, 9} accuracy is 76.0%
+Feature set {1, 2, 4, 5, 7, 9, 10} was best, accuracy is 79.0%
+
+On level 5 I added feature {1, 2, 4, 5, 7, 10} to current set
+
+On level 1 I added feature {1, 2, 4, 5, 7, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 4, 5, 7, 10} accuracy is 83.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 4, 5, 7, 10} accuracy is 71.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 5, 7, 10} accuracy is 75.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 4, 7, 10} accuracy is 60.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 4, 5, 10} accuracy is 75.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 4, 5, 7} accuracy is 77.0%
+Feature set {1, 2, 4, 5, 7, 10} was best, accuracy is 83.0%
+
+On level 6 I added feature {2, 4, 5, 7, 10} to current set
+
+On level 1 I added feature {2, 4, 5, 7, 10} to current set
+
+--Considering removing the 2 feature
+Using feature(s) {4, 5, 7, 10} accuracy is 79.0%
+--Considering removing the 4 feature
+Using feature(s) {2, 5, 7, 10} accuracy is 81.0%
+--Considering removing the 5 feature
+Using feature(s) {2, 4, 7, 10} accuracy is 71.0%
+--Considering removing the 7 feature
+Using feature(s) {2, 4, 5, 10} accuracy is 76.0%
+--Considering removing the 10 feature
+Using feature(s) {2, 4, 5, 7} accuracy is 76.0%
+Feature set {2, 4, 5, 7, 10} was best, accuracy is 81.0%
+
+On level 7 I added feature {2, 5, 7, 10} to current set
+
+"(Warning, Accuracy has decreased!)"
+Finished search!! The best feature subset is {2, 4, 5, 7, 10}, which is an accuracy of 83.0%
+The dataset has 10 features (not including the class attribute), with 100 instances
+Using feature(s) {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} accuracy is 68.0%
+Feature set {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} was best, accuracy is 0%
+
+On level 1 I added feature {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} to current set
+
+On level 1 I added feature {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 3, 4, 5, 6, 7, 8, 9, 10} accuracy is 71.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 3, 4, 5, 6, 7, 8, 9, 10} accuracy is 62.0%
+--Considering removing the 3 feature
+Using feature(s) {1, 2, 4, 5, 6, 7, 8, 9, 10} accuracy is 73.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 3, 5, 6, 7, 8, 9, 10} accuracy is 70.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 3, 4, 6, 7, 8, 9, 10} accuracy is 69.0%
+--Considering removing the 6 feature
+Using feature(s) {1, 2, 3, 4, 5, 7, 8, 9, 10} accuracy is 71.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 3, 4, 5, 6, 8, 9, 10} accuracy is 62.0%
+--Considering removing the 8 feature
+Using feature(s) {1, 2, 3, 4, 5, 6, 7, 9, 10} accuracy is 72.0%
+--Considering removing the 9 feature
+Using feature(s) {1, 2, 3, 4, 5, 6, 7, 8, 10} accuracy is 67.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 3, 4, 5, 6, 7, 8, 9} accuracy is 72.0%
+Feature set {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} was best, accuracy is 73.0%
+
+On level 2 I added feature {1, 2, 4, 5, 6, 7, 8, 9, 10} to current set
+
+On level 1 I added feature {1, 2, 4, 5, 6, 7, 8, 9, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 4, 5, 6, 7, 8, 9, 10} accuracy is 72.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 4, 5, 6, 7, 8, 9, 10} accuracy is 73.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 5, 6, 7, 8, 9, 10} accuracy is 69.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 4, 6, 7, 8, 9, 10} accuracy is 64.0%
+--Considering removing the 6 feature
+Using feature(s) {1, 2, 4, 5, 7, 8, 9, 10} accuracy is 75.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 4, 5, 6, 8, 9, 10} accuracy is 68.0%
+--Considering removing the 8 feature
+Using feature(s) {1, 2, 4, 5, 6, 7, 9, 10} accuracy is 68.0%
+--Considering removing the 9 feature
+Using feature(s) {1, 2, 4, 5, 6, 7, 8, 10} accuracy is 73.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 4, 5, 6, 7, 8, 9} accuracy is 67.0%
+Feature set {1, 2, 4, 5, 6, 7, 8, 9, 10} was best, accuracy is 75.0%
+
+On level 3 I added feature {1, 2, 4, 5, 7, 8, 9, 10} to current set
+
+On level 1 I added feature {1, 2, 4, 5, 7, 8, 9, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 4, 5, 7, 8, 9, 10} accuracy is 75.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 4, 5, 7, 8, 9, 10} accuracy is 73.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 5, 7, 8, 9, 10} accuracy is 64.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 4, 7, 8, 9, 10} accuracy is 58.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 4, 5, 8, 9, 10} accuracy is 71.0%
+--Considering removing the 8 feature
+Using feature(s) {1, 2, 4, 5, 7, 9, 10} accuracy is 78.0%
+--Considering removing the 9 feature
+Using feature(s) {1, 2, 4, 5, 7, 8, 10} accuracy is 77.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 4, 5, 7, 8, 9} accuracy is 71.0%
+Feature set {1, 2, 4, 5, 7, 8, 9, 10} was best, accuracy is 78.0%
+
+On level 4 I added feature {1, 2, 4, 5, 7, 9, 10} to current set
+
+On level 1 I added feature {1, 2, 4, 5, 7, 9, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 4, 5, 7, 9, 10} accuracy is 76.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 4, 5, 7, 9, 10} accuracy is 73.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 5, 7, 9, 10} accuracy is 67.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 4, 7, 9, 10} accuracy is 61.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 4, 5, 9, 10} accuracy is 75.0%
+--Considering removing the 9 feature
+Using feature(s) {1, 2, 4, 5, 7, 10} accuracy is 79.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 4, 5, 7, 9} accuracy is 76.0%
+Feature set {1, 2, 4, 5, 7, 9, 10} was best, accuracy is 79.0%
+
+On level 5 I added feature {1, 2, 4, 5, 7, 10} to current set
+
+On level 1 I added feature {1, 2, 4, 5, 7, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 4, 5, 7, 10} accuracy is 83.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 4, 5, 7, 10} accuracy is 71.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 5, 7, 10} accuracy is 75.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 4, 7, 10} accuracy is 60.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 4, 5, 10} accuracy is 75.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 4, 5, 7} accuracy is 77.0%
+Feature set {1, 2, 4, 5, 7, 10} was best, accuracy is 83.0%
+
+On level 6 I added feature {2, 4, 5, 7, 10} to current set
+
+On level 1 I added feature {2, 4, 5, 7, 10} to current set
+
+--Considering removing the 2 feature
+Using feature(s) {4, 5, 7, 10} accuracy is 79.0%
+--Considering removing the 4 feature
+Using feature(s) {2, 5, 7, 10} accuracy is 81.0%
+--Considering removing the 5 feature
+Using feature(s) {2, 4, 7, 10} accuracy is 71.0%
+--Considering removing the 7 feature
+Using feature(s) {2, 4, 5, 10} accuracy is 76.0%
+--Considering removing the 10 feature
+Using feature(s) {2, 4, 5, 7} accuracy is 76.0%
+Feature set {2, 4, 5, 7, 10} was best, accuracy is 81.0%
+
+On level 7 I added feature {2, 5, 7, 10} to current set
+
+"(Warning, Accuracy has decreased!)"
+Finished search!! The best feature subset is {2, 4, 5, 7, 10}, which is an accuracy of 83.0%
+The dataset has 10 features (not including the class attribute), with 100 instances
+Using feature(s) {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} accuracy is 68.0%
+Feature set {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} was best, accuracy is 0%
+
+On level 1 I added feature {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} to current set
+
+On level 1 I added feature {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 3, 4, 5, 6, 7, 8, 9, 10} accuracy is 71.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 3, 4, 5, 6, 7, 8, 9, 10} accuracy is 62.0%
+--Considering removing the 3 feature
+Using feature(s) {1, 2, 4, 5, 6, 7, 8, 9, 10} accuracy is 73.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 3, 5, 6, 7, 8, 9, 10} accuracy is 70.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 3, 4, 6, 7, 8, 9, 10} accuracy is 69.0%
+--Considering removing the 6 feature
+Using feature(s) {1, 2, 3, 4, 5, 7, 8, 9, 10} accuracy is 71.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 3, 4, 5, 6, 8, 9, 10} accuracy is 62.0%
+--Considering removing the 8 feature
+Using feature(s) {1, 2, 3, 4, 5, 6, 7, 9, 10} accuracy is 72.0%
+--Considering removing the 9 feature
+Using feature(s) {1, 2, 3, 4, 5, 6, 7, 8, 10} accuracy is 67.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 3, 4, 5, 6, 7, 8, 9} accuracy is 72.0%
+Feature set {1, 2, 4, 5, 6, 7, 8, 9, 10} was best, accuracy is 73.0%
+
+On level 2 I added feature {1, 2, 4, 5, 6, 7, 8, 9, 10} to current set
+
+On level 1 I added feature {1, 2, 4, 5, 6, 7, 8, 9, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 4, 5, 6, 7, 8, 9, 10} accuracy is 72.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 4, 5, 6, 7, 8, 9, 10} accuracy is 73.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 5, 6, 7, 8, 9, 10} accuracy is 69.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 4, 6, 7, 8, 9, 10} accuracy is 64.0%
+--Considering removing the 6 feature
+Using feature(s) {1, 2, 4, 5, 7, 8, 9, 10} accuracy is 75.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 4, 5, 6, 8, 9, 10} accuracy is 68.0%
+--Considering removing the 8 feature
+Using feature(s) {1, 2, 4, 5, 6, 7, 9, 10} accuracy is 68.0%
+--Considering removing the 9 feature
+Using feature(s) {1, 2, 4, 5, 6, 7, 8, 10} accuracy is 73.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 4, 5, 6, 7, 8, 9} accuracy is 67.0%
+Feature set {1, 2, 4, 5, 7, 8, 9, 10} was best, accuracy is 75.0%
+
+On level 3 I added feature {1, 2, 4, 5, 7, 8, 9, 10} to current set
+
+On level 1 I added feature {1, 2, 4, 5, 7, 8, 9, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 4, 5, 7, 8, 9, 10} accuracy is 75.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 4, 5, 7, 8, 9, 10} accuracy is 73.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 5, 7, 8, 9, 10} accuracy is 64.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 4, 7, 8, 9, 10} accuracy is 58.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 4, 5, 8, 9, 10} accuracy is 71.0%
+--Considering removing the 8 feature
+Using feature(s) {1, 2, 4, 5, 7, 9, 10} accuracy is 78.0%
+--Considering removing the 9 feature
+Using feature(s) {1, 2, 4, 5, 7, 8, 10} accuracy is 77.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 4, 5, 7, 8, 9} accuracy is 71.0%
+Feature set {1, 2, 4, 5, 7, 9, 10} was best, accuracy is 78.0%
+
+On level 4 I added feature {1, 2, 4, 5, 7, 9, 10} to current set
+
+On level 1 I added feature {1, 2, 4, 5, 7, 9, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 4, 5, 7, 9, 10} accuracy is 76.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 4, 5, 7, 9, 10} accuracy is 73.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 5, 7, 9, 10} accuracy is 67.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 4, 7, 9, 10} accuracy is 61.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 4, 5, 9, 10} accuracy is 75.0%
+--Considering removing the 9 feature
+Using feature(s) {1, 2, 4, 5, 7, 10} accuracy is 79.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 4, 5, 7, 9} accuracy is 76.0%
+Feature set {1, 2, 4, 5, 7, 10} was best, accuracy is 79.0%
+
+On level 5 I added feature {1, 2, 4, 5, 7, 10} to current set
+
+On level 1 I added feature {1, 2, 4, 5, 7, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 4, 5, 7, 10} accuracy is 83.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 4, 5, 7, 10} accuracy is 71.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 5, 7, 10} accuracy is 75.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 4, 7, 10} accuracy is 60.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 4, 5, 10} accuracy is 75.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 4, 5, 7} accuracy is 77.0%
+Feature set {2, 4, 5, 7, 10} was best, accuracy is 83.0%
+
+On level 6 I added feature {2, 4, 5, 7, 10} to current set
+
+On level 1 I added feature {2, 4, 5, 7, 10} to current set
+
+--Considering removing the 2 feature
+Using feature(s) {4, 5, 7, 10} accuracy is 79.0%
+--Considering removing the 4 feature
+Using feature(s) {2, 5, 7, 10} accuracy is 81.0%
+--Considering removing the 5 feature
+Using feature(s) {2, 4, 7, 10} accuracy is 71.0%
+--Considering removing the 7 feature
+Using feature(s) {2, 4, 5, 10} accuracy is 76.0%
+--Considering removing the 10 feature
+Using feature(s) {2, 4, 5, 7} accuracy is 76.0%
+Feature set {2, 5, 7, 10} was best, accuracy is 81.0%
+
+On level 7 I added feature {2, 5, 7, 10} to current set
+
+"(Warning, Accuracy has decreased!)"
+Finished search!! The best feature subset is {2, 4, 5, 7, 10}, which is an accuracy of 83.0%
+The dataset has 10 features (not including the class attribute), with 100 instances
+Using feature(s) {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} accuracy is 68.0%
+Feature set {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} was best, accuracy is 0%
+
+On level 1 I added feature {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} to current set
+
+On level 1 I added feature {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 3, 4, 5, 6, 7, 8, 9, 10} accuracy is 71.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 3, 4, 5, 6, 7, 8, 9, 10} accuracy is 62.0%
+--Considering removing the 3 feature
+Using feature(s) {1, 2, 4, 5, 6, 7, 8, 9, 10} accuracy is 73.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 3, 5, 6, 7, 8, 9, 10} accuracy is 70.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 3, 4, 6, 7, 8, 9, 10} accuracy is 69.0%
+--Considering removing the 6 feature
+Using feature(s) {1, 2, 3, 4, 5, 7, 8, 9, 10} accuracy is 71.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 3, 4, 5, 6, 8, 9, 10} accuracy is 62.0%
+--Considering removing the 8 feature
+Using feature(s) {1, 2, 3, 4, 5, 6, 7, 9, 10} accuracy is 72.0%
+--Considering removing the 9 feature
+Using feature(s) {1, 2, 3, 4, 5, 6, 7, 8, 10} accuracy is 67.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 3, 4, 5, 6, 7, 8, 9} accuracy is 72.0%
+Feature set {1, 2, 4, 5, 6, 7, 8, 9, 10} was best, accuracy is 73.0%
+
+On level 2 I added feature {1, 2, 4, 5, 6, 7, 8, 9, 10} to current set
+
+On level 1 I added feature {1, 2, 4, 5, 6, 7, 8, 9, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 4, 5, 6, 7, 8, 9, 10} accuracy is 72.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 4, 5, 6, 7, 8, 9, 10} accuracy is 73.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 5, 6, 7, 8, 9, 10} accuracy is 69.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 4, 6, 7, 8, 9, 10} accuracy is 64.0%
+--Considering removing the 6 feature
+Using feature(s) {1, 2, 4, 5, 7, 8, 9, 10} accuracy is 75.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 4, 5, 6, 8, 9, 10} accuracy is 68.0%
+--Considering removing the 8 feature
+Using feature(s) {1, 2, 4, 5, 6, 7, 9, 10} accuracy is 68.0%
+--Considering removing the 9 feature
+Using feature(s) {1, 2, 4, 5, 6, 7, 8, 10} accuracy is 73.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 4, 5, 6, 7, 8, 9} accuracy is 67.0%
+Feature set {1, 2, 4, 5, 7, 8, 9, 10} was best, accuracy is 75.0%
+
+On level 3 I added feature {1, 2, 4, 5, 7, 8, 9, 10} to current set
+
+On level 1 I added feature {1, 2, 4, 5, 7, 8, 9, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 4, 5, 7, 8, 9, 10} accuracy is 75.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 4, 5, 7, 8, 9, 10} accuracy is 73.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 5, 7, 8, 9, 10} accuracy is 64.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 4, 7, 8, 9, 10} accuracy is 58.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 4, 5, 8, 9, 10} accuracy is 71.0%
+--Considering removing the 8 feature
+Using feature(s) {1, 2, 4, 5, 7, 9, 10} accuracy is 78.0%
+--Considering removing the 9 feature
+Using feature(s) {1, 2, 4, 5, 7, 8, 10} accuracy is 77.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 4, 5, 7, 8, 9} accuracy is 71.0%
+Feature set {1, 2, 4, 5, 7, 9, 10} was best, accuracy is 78.0%
+
+On level 4 I added feature {1, 2, 4, 5, 7, 9, 10} to current set
+
+On level 1 I added feature {1, 2, 4, 5, 7, 9, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 4, 5, 7, 9, 10} accuracy is 76.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 4, 5, 7, 9, 10} accuracy is 73.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 5, 7, 9, 10} accuracy is 67.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 4, 7, 9, 10} accuracy is 61.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 4, 5, 9, 10} accuracy is 75.0%
+--Considering removing the 9 feature
+Using feature(s) {1, 2, 4, 5, 7, 10} accuracy is 79.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 4, 5, 7, 9} accuracy is 76.0%
+Feature set {1, 2, 4, 5, 7, 10} was best, accuracy is 79.0%
+
+On level 5 I added feature {1, 2, 4, 5, 7, 10} to current set
+
+On level 1 I added feature {1, 2, 4, 5, 7, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 4, 5, 7, 10} accuracy is 83.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 4, 5, 7, 10} accuracy is 71.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 5, 7, 10} accuracy is 75.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 4, 7, 10} accuracy is 60.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 4, 5, 10} accuracy is 75.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 4, 5, 7} accuracy is 77.0%
+Feature set {2, 4, 5, 7, 10} was best, accuracy is 83.0%
+
+On level 6 I added feature {2, 4, 5, 7, 10} to current set
+
+On level 1 I added feature {2, 4, 5, 7, 10} to current set
+
+--Considering removing the 2 feature
+Using feature(s) {4, 5, 7, 10} accuracy is 79.0%
+--Considering removing the 4 feature
+Using feature(s) {2, 5, 7, 10} accuracy is 81.0%
+--Considering removing the 5 feature
+Using feature(s) {2, 4, 7, 10} accuracy is 71.0%
+--Considering removing the 7 feature
+Using feature(s) {2, 4, 5, 10} accuracy is 76.0%
+--Considering removing the 10 feature
+Using feature(s) {2, 4, 5, 7} accuracy is 76.0%
+Feature set {2, 5, 7, 10} was best, accuracy is 81.0%
+
+On level 7 I added feature {2, 5, 7, 10} to current set
+
+"(Warning, Accuracy has decreased!)"
+Finished search!! The best feature subset is {2, 4, 5, 7, 10}, which is an accuracy of 83.0%
+The dataset has 10 features (not including the class attribute), with 100 instances
+Using feature(s) {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} accuracy is 68.0%
+Feature set {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} was best, accuracy is 0%
+
+On level 1 I added feature {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} to current set
+
+On level 1 I added feature {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 3, 4, 5, 6, 7, 8, 9, 10} accuracy is 71.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 3, 4, 5, 6, 7, 8, 9, 10} accuracy is 62.0%
+--Considering removing the 3 feature
+Using feature(s) {1, 2, 4, 5, 6, 7, 8, 9, 10} accuracy is 73.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 3, 5, 6, 7, 8, 9, 10} accuracy is 70.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 3, 4, 6, 7, 8, 9, 10} accuracy is 69.0%
+--Considering removing the 6 feature
+Using feature(s) {1, 2, 3, 4, 5, 7, 8, 9, 10} accuracy is 71.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 3, 4, 5, 6, 8, 9, 10} accuracy is 62.0%
+--Considering removing the 8 feature
+Using feature(s) {1, 2, 3, 4, 5, 6, 7, 9, 10} accuracy is 72.0%
+--Considering removing the 9 feature
+Using feature(s) {1, 2, 3, 4, 5, 6, 7, 8, 10} accuracy is 67.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 3, 4, 5, 6, 7, 8, 9} accuracy is 72.0%
+Feature set {1, 2, 4, 5, 6, 7, 8, 9, 10} was best, accuracy is 73.0%
+
+On level 2 I added feature {1, 2, 4, 5, 6, 7, 8, 9, 10} to current set
+
+On level 1 I added feature {1, 2, 4, 5, 6, 7, 8, 9, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 4, 5, 6, 7, 8, 9, 10} accuracy is 72.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 4, 5, 6, 7, 8, 9, 10} accuracy is 73.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 5, 6, 7, 8, 9, 10} accuracy is 69.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 4, 6, 7, 8, 9, 10} accuracy is 64.0%
+--Considering removing the 6 feature
+Using feature(s) {1, 2, 4, 5, 7, 8, 9, 10} accuracy is 75.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 4, 5, 6, 8, 9, 10} accuracy is 68.0%
+--Considering removing the 8 feature
+Using feature(s) {1, 2, 4, 5, 6, 7, 9, 10} accuracy is 68.0%
+--Considering removing the 9 feature
+Using feature(s) {1, 2, 4, 5, 6, 7, 8, 10} accuracy is 73.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 4, 5, 6, 7, 8, 9} accuracy is 67.0%
+Feature set {1, 2, 4, 5, 7, 8, 9, 10} was best, accuracy is 75.0%
+
+On level 3 I added feature {1, 2, 4, 5, 7, 8, 9, 10} to current set
+
+On level 1 I added feature {1, 2, 4, 5, 7, 8, 9, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 4, 5, 7, 8, 9, 10} accuracy is 75.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 4, 5, 7, 8, 9, 10} accuracy is 73.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 5, 7, 8, 9, 10} accuracy is 64.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 4, 7, 8, 9, 10} accuracy is 58.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 4, 5, 8, 9, 10} accuracy is 71.0%
+--Considering removing the 8 feature
+Using feature(s) {1, 2, 4, 5, 7, 9, 10} accuracy is 78.0%
+--Considering removing the 9 feature
+Using feature(s) {1, 2, 4, 5, 7, 8, 10} accuracy is 77.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 4, 5, 7, 8, 9} accuracy is 71.0%
+Feature set {1, 2, 4, 5, 7, 9, 10} was best, accuracy is 78.0%
+
+On level 4 I added feature {1, 2, 4, 5, 7, 9, 10} to current set
+
+On level 1 I added feature {1, 2, 4, 5, 7, 9, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 4, 5, 7, 9, 10} accuracy is 76.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 4, 5, 7, 9, 10} accuracy is 73.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 5, 7, 9, 10} accuracy is 67.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 4, 7, 9, 10} accuracy is 61.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 4, 5, 9, 10} accuracy is 75.0%
+--Considering removing the 9 feature
+Using feature(s) {1, 2, 4, 5, 7, 10} accuracy is 79.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 4, 5, 7, 9} accuracy is 76.0%
+Feature set {1, 2, 4, 5, 7, 10} was best, accuracy is 79.0%
+
+On level 5 I added feature {1, 2, 4, 5, 7, 10} to current set
+
+On level 1 I added feature {1, 2, 4, 5, 7, 10} to current set
+
+--Considering removing the 1 feature
+Using feature(s) {2, 4, 5, 7, 10} accuracy is 83.0%
+--Considering removing the 2 feature
+Using feature(s) {1, 4, 5, 7, 10} accuracy is 71.0%
+--Considering removing the 4 feature
+Using feature(s) {1, 2, 5, 7, 10} accuracy is 75.0%
+--Considering removing the 5 feature
+Using feature(s) {1, 2, 4, 7, 10} accuracy is 60.0%
+--Considering removing the 7 feature
+Using feature(s) {1, 2, 4, 5, 10} accuracy is 75.0%
+--Considering removing the 10 feature
+Using feature(s) {1, 2, 4, 5, 7} accuracy is 77.0%
+Feature set {2, 4, 5, 7, 10} was best, accuracy is 83.0%
+
+On level 6 I added feature {2, 4, 5, 7, 10} to current set
+
+On level 1 I added feature {2, 4, 5, 7, 10} to current set
+
+--Considering removing the 2 feature
+Using feature(s) {4, 5, 7, 10} accuracy is 79.0%
+--Considering removing the 4 feature
+Using feature(s) {2, 5, 7, 10} accuracy is 81.0%
+--Considering removing the 5 feature
+Using feature(s) {2, 4, 7, 10} accuracy is 71.0%
+--Considering removing the 7 feature
+Using feature(s) {2, 4, 5, 10} accuracy is 76.0%
+--Considering removing the 10 feature
+Using feature(s) {2, 4, 5, 7} accuracy is 76.0%
+Feature set {2, 5, 7, 10} was best, accuracy is 81.0%
+
+On level 7 I added feature {2, 5, 7, 10} to current set
+
+"(Warning, Accuracy has decreased!)"
+Finished search!! The best feature subset is {2, 4, 5, 7, 10}, which is an accuracy of 83.0%
